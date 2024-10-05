@@ -16,10 +16,10 @@ timezone: America/Chicago
 
 title: Nick's Kernel Quest
 
-tagline: Documenting my learning about topics such as the Linux kernel and embedded electronics.
+tagline: A former web dev attempts to learn kernel innards and embedded systems.
 
 description: >- # used by seo meta and the atom feed
-  Linux/Kernel/Embedded Learnings and Musings
+  A former web dev attempts to learn kernel innards and embedded systems
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -63,7 +63,7 @@ analytics:
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
-  cloudflare: "afc1d6726d24486ca4af21e422f08f87"
+  cloudflare: # cloudflare id
 
   fathom:
     id: # fill in your Fathom Site ID
