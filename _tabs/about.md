@@ -37,4 +37,4 @@ Please do not mistake anything on this site for any kind of **authority** on the
 
 Thanks for reading and reach out if you want to chat about this stuff. 
 
-*(Email and github links are in the footer)*
+*(Email and github links are located in the bottom of the sidebar)*
