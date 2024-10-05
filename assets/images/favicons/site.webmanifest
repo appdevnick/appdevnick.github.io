@@ -1,6 +1,13 @@
+---
+layout: compress
+---
+
+{% assign favicon_path = "/assets/img/favicons" | relative_url %}
+
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "{{ site.title }}",
+  "short_name": "{{ site.title }}",
+  "description": "{{ site.description }}",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -15,7 +22,8 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#ffffff",
+  "start_url": "{{ '/index.html' | relative_url }}",
+  "theme_color": "#2a1e6b",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "fullscreen"
 }
