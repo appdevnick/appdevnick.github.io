@@ -4,7 +4,7 @@ title:  "Hello, World!"
 category: General
 ---
 
-# Documenting my learning
+## Documenting my learning
 
 This blog exists for the purpose of writing down the things that I learn about Linux, the kernel, embedded, and general electronics.
 
