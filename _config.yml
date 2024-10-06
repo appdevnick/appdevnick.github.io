@@ -35,8 +35,7 @@ social:
   email: nickmaxwell@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/appdevnick # change to your GitHub homepage
-    # Uncomment below to add more social links
+    - https://github.com/appdevnick
     - https://www.linkedin.com/in/nmaxwell
 
 # Site Verification Settings
@@ -133,7 +132,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: false # The option for PWA feature (installable)
   cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
@@ -209,6 +208,7 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
+  - 
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -218,3 +218,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-seo-tag
