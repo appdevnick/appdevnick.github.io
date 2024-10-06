@@ -1,40 +1,21 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
 
-## This site is guaranteed to contain mistakes, errors and bad ideas. 
+Hi, I'm Nick, and I'm writing down what I learn about Linux, the kernel, and maybe embedded systems at some later date.
 
-That's the reality of being a "newbie" who is documenting his learning process, of course, but I just wanted to make that clear from the outset. 
+I'm maintaining this site primarily for my own development as an aspiring Linux/embedded developer. I'm keeping fairly extensive notes in Obsidian, and sometimes I will want to expand on those notes because I'm trying to piece together how something works. I might also want to document projects that I build while learning.
 
-My intent here is to document my own learning. Hopefully, as the number of posts increases, so too will my knowledge about Linux and all these other fields that surround it, thus bringing the site closer to being useful to others.
+I hope it's apparent that some of what I write is going to be very naive or just plain wrong. As of October, 2024, I consider myself an "enthusiastic beginner."
 
-## Where I've been
+**I think there are broadly two groups of people who might be interested:**
 
-I spent a few years working in web development, lucky to contract with a company full of great people with great products. Unfortunately, pandemic economics meant it was time to find a new position after a short time. 
+1. novices like myself who might want to compare notes. 
+2. people with experience and who likely have corrections or additional resources
 
-2019 was a time where plenty of people decided to upskill in some way. Being somewhat bored with web development and now unemployed, my own upskilling time had come as well. Being a glutton for punishment, I chose lower level tech! 
-
-Prior to this, I was exclusively a terminal-phobic Windows user, proficient enough with writing code and getting it deployed, but far from an OS power user. I love learning things, so diving in head-first to Linux for the first time was an intense but very fulfilling experience:
-
-1. I learned how to install Linux alongside Windows
-2. Then I learned basic command-line functions and utilities, but...
-3. perhaps more importantly, I learned a lot about the philosophy behind Linux, **specifically with regard to composing lots of tiny utilities together to achieve a target result.**
-4. the even bigger realization was just how sophisticated the kernel must be in order to manage all of this!
-
-## Where I'm at now
-
-I have used Linux exclusively for a few years now. I've written code in C, Elixir, Javascript/Typescript, and even a little Rust. I've also been reading as much as I can get my hands on about kernel internals. I've also purchased an STM32 Nucleo board to start fiddling with. At the time of this writing, I'm just getting started with poking at registers and making LEDs blink, which is un-ironically exciting to get working for the first time.
-
-## Where I'm headed
-
-After whetting my appetite with Linux and programming for a few years now, I want to dive deeper and learn about the kernel. I have also developed an interest in embedded software and hardware along with basic electronics, so there may be posts along those lines from time to time. Ultimately, I hope to obtain either employment in a related field or learn enough to build my own products.
-
-## One last time for effect!
-
-Please do not mistake anything on this site for any kind of **authority** on the kernel, embedded systems, or anything else in life.
-
-Thanks for reading and reach out if you want to chat about this stuff. 
+Either way, I would like to hear from you if you ever have questions, concerns, corrections, or comments.
 
 *(Email and github links are located in the bottom of the sidebar)*
+
+If you want to read more, here's the first post: [Hello, World!](https://nickskernelquest.com/posts/hello-world/)
