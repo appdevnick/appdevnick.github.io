@@ -19,7 +19,7 @@ Prior to this, I was exclusively a terminal-phobic Windows user, proficient enou
 
 ## Where I'm at now
 
-I have used Linux exclusively for a few years now. I've written code in C, Elixir, Javascript/Typescript, and even a little Rust. I've also been reading as much as I can get my hands on about kernel internals. I've also purchased an STM32 Nucleo board to start fiddling with. At the time of this writing, I'm just getting started with poking at registers and making LEDs blink, which is un-ironically exciting to get working for the first time.
+I have used Linux exclusively for a few years now. I've written code in C, Elixir, Javascript/Typescript, and even a little Rust. I've also been reading as much as I can get my hands on about kernel internals along with getting an STM32 Nucleo board to start fiddling with. At the time of this writing, I'm just getting started with poking at registers and making LEDs blink, which is un-ironically exciting to get working for the first time.
 
 ## Where I'm headed
 
