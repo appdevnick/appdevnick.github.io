@@ -4,12 +4,6 @@ title:  "Hello, World!"
 category: General
 ---
 
-## This site is guaranteed to contain mistakes, errors and bad ideas. 
-
-That's the reality of being a "newbie" who is documenting his learning process, of course, but I just wanted to make that clear from the outset. 
-
-My intent here is to document my own learning. Hopefully, as the number of posts increases, so too will my knowledge about Linux and all these other fields that surround it, thus bringing the site closer to being useful to others.
-
 ## Where I've been
 
 I spent a few years working in web development, lucky to contract with a company full of great people with great products. Unfortunately, pandemic economics meant it was time to find a new position after a short time. 
