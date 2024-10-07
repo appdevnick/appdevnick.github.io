@@ -36,10 +36,10 @@ There are a few ways to make this config file, but since my ultimate goal was to
     lsmod > /tmp/current_mods
     ```
 
-    Now you can use that file's contents as a shell variable:
+    Now you can use that file as a shell variable:
     ```bash
     make LSMOD=/tmp/current_mods localmodconfig
     ``` 
     
-    This environment variable is used by Make when run against the ```localmodconfig``` target in order to fill out a preliminary .config file that is already tailored to your currently working Linux system. *I think it is extremely cool to have this Make target. It makes life so much easier than the alternative.*
+    This environment variable is used by Make when run against the ```localmodconfig``` target in order to fill out a preliminary .config file that is already tailored to your currently working Linux system. *As a novice to all of this, I can't overstate much I appreciate this relatively easy method of creating a config so I can continue to focus on actually compiling the kernel!*
 
