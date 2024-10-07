@@ -53,6 +53,6 @@ There are multiple ways to create this file, but since my goal was to compile a 
 
 ## Time to take a break
 
-LKP wisely ends the chapter here, giving newcomers like me a cognitive breather. There’s already a lot to absorb. The book goes into much more detail about what happens behind the scenes when running these Make targets, along with many other tidbits that are best understood from the [source](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226).
+LKP wisely ends the chapter here, giving newcomers like me a cognitive breather. There’s already a lot to absorb. The book goes into much more detail about what happens behind the scenes when running these Make targets, along with many other tidbits that are best understood from [the book itself](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226).
 
-Next time, I’ll continue following LKP’s flow and finish my first kernel compilation! :)
+In Part 2, I’ll continue following LKP’s flow and hopefully finish my first kernel compilation.
