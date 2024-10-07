@@ -2,6 +2,7 @@
 layout: post
 title: Building the Linux Kernel (Part 1 of 2)
 categories: Linux Kernel
+page.image: /assets/images/bits.jpg
 ---
 I'm diving headfirst into Linux, with a special emphasis on the kernel. While I found several resources to guide me, I ultimately chose ["Linux Kernel Programming (2nd ed.)"](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226) (LKP) by Kaiwan N Billimoria. This book is the most up-to-date resource I could find that matches my desired level of abstraction, offering a mix of Linux command-line tricks alongside insights into kernel internals.
 
