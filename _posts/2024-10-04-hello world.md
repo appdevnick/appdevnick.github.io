@@ -6,7 +6,7 @@ category: General
 
 ## Where I've been
 
-I spent a few years working in web development, lucky to contract with a company full of great people with great products. Unfortunately, pandemic economics meant it was time to find a new position after a short time. 
+I went to law school so that I could discover that I don't want to be a lawyer. Then I moved on to running a couple of online businesses, eventually getting bored and selling them (paid the bills for a while). After that, my interest in programming was reignited and I spent a few years working in web development, lucky to contract with a company full of great people with great products. Unfortunately, pandemic economics meant it was time to find a new position after a short time. 
 
 2019 was a time where plenty of people decided to upskill in some way. Being somewhat bored with web development and now unemployed, my own upskilling time had come as well. Being a glutton for punishment, I chose lower level tech! 
 
