@@ -8,9 +8,9 @@ category: General
 
 I went to law school so that I could discover that I don't want to be a lawyer. Then I moved on to running a couple of online businesses, eventually getting bored and selling them (paid the bills for a while). After that, my interest in programming was reignited and I spent a few years working in web development, lucky to contract with a company full of great people with great products. Unfortunately, pandemic economics meant it was time to find a new position after a short time. 
 
-2019 was a time where plenty of people decided to upskill in some way. Being somewhat bored with web development and now unemployed, my own upskilling time had come as well. Being a glutton for punishment, I chose lower level tech! 
+2019 was a time where plenty of people decided to upskill in some way. Now unemployed, my own upskilling time had come as well. I wanted to challenge myself beyond what I had worked on before, so I have chosen "lower-level" systems because they have always fascinated me from afar. 
 
-Prior to this, I was exclusively a terminal-phobic Windows user, proficient enough with writing code and getting it deployed, but far from an OS power user. I love learning things, so diving in head-first to Linux for the first time was an intense but very fulfilling experience:
+Prior to this, I was exclusively a terminal-phobic Windows user, proficient enough with writing code and getting it deployed, but far from an OS power user. Diving in head-first to Linux for the first time was an intense but very fulfilling experience:
 
 1. I learned how to install Linux alongside Windows
 2. Then I learned basic command-line functions and utilities, but...
@@ -23,7 +23,7 @@ I have used Linux exclusively for a few years now. I've written code in C, Elixi
 
 ## Where I'm headed
 
-After whetting my appetite with Linux and programming for a few years now, I want to dive deeper and learn about the kernel. I have also developed an interest in embedded software and hardware along with basic electronics, so there may be posts along those lines from time to time. Ultimately, I hope to obtain either employment in a related field or learn enough to build my own products.
+After whetting my appetite with Linux and programming for a few years now, I want to dive deeper and learn about the kernel. I have also developed an interest in embedded software and hardware along with basic electronics, so there may be posts along those lines from time to time. Ultimately, I hope to obtain employment in a related field at a place that I can commit to.
 
 ## One last time for effect!
 
