@@ -13,8 +13,8 @@ The next step entails building a kernel image based off of this config file, alo
 
 Thanks to the work of others, actually "building" the kernel is often as simple as running the ```make``` command. When it is run without any target arguments, it will run the first target it finds in the Makefile, which for the Linux kernel is "all."
 
-When you run ```make all``` or just ```make``` and wait for the compiler to complete. "All" is the top listed target in the Makefile and thus will be chosen by default if not target is specified):
-1. **vmlinux**, the ***uncompressed*** kernel image file. This is not the one your systemn will load into memory. Instead, it acts as a useful debug target when something goes wrong with your kernel because it has debug symbols in it. It's a big file, much too big to efficiently load at runtime.
+Now you run ```make all``` or just ```make``` and wait for the compiler to complete. "All" is the top listed target in the Makefile and thus will be chosen by default if not target is specified):
+1. **vmlinux**, the ***uncompressed*** kernel image file. This is not the one your system will load into memory. Instead, it acts as a useful debug target when something goes wrong with your kernel because it has debug symbols in it. It's a big file, much too big to efficiently load at runtime.
 2. **bzImage**, the ***compressed*** kernel image. This is the artifact that will be used at boot.
 3. **modules**, which are are the features marked as "M" in the ```make menuconfig``` step. Those features get compiled into individual modules rather than getting packed into the kernel image statically.
 
@@ -28,7 +28,7 @@ Building the kernel from source doesn’t always go smoothly, especially for beg
    sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev```
 
 2. **Cert issue on Ubuntu**
-    [LKP](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226/) as well as numerous threads online point to a potential build failure under Ubuntu (and downstream) distros.
+    [LKP](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226/) as well as numerous threads online point to a potential build failure under Ubuntu (and downstream) distributions.
 
     The error has to do with certs, and you can solve it by entering the following two commands, run from the root source directory:
 
@@ -58,7 +58,7 @@ Initramfs stands for "initial RAM filesystem," which is exactly what it sounds l
 
 To prepare initramfs, enter this command in the root source directory: ```sudo make install```
 
-Assuming this worked for you, then congratulations, you should be ready to boot into your new kernel. All that remains is to enter the Grub bootloader menu and choose the correct entry!
+Assuming this worked for you, then congratulations, you should be ready to boot into your new kernel. All that remains is to enter the Grub boot-loader menu and choose the correct entry!
 
 ## It's ok if this doesn't work for you right away
 
